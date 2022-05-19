@@ -15,3 +15,7 @@ Om du vill utmana dig extra mycket så kan du lägga till redigeringsmöjlighete
 MediaDevices: https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
 
 ## Videor
+
+## Inspelningar
+
+https://drive.google.com/drive/folders/1e1iuXYsq8fTPoTdWf6xkLfZQwRbTmmJC?usp=sharing
